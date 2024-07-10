@@ -38,6 +38,7 @@ export const RightContainer = styled.div`
   height: 100%;
   width: 100%;
   max-width: 50%;
+
 `;
 
 export const Title = styled.h2`
@@ -62,7 +63,6 @@ export const Form = styled.form`
   font-weight: 800;
   color: #f1f1f1;
   text-align: center;
-
   
 }
   
